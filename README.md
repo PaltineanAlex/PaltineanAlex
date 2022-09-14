@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PaltineanAlex
-- 👀 I’m interested in programming in general, I like to solve day to day tasks and I'm getting more and more interested in FrontEnd
-- 🌱 I’m currently learning C at my University, C++ using Udemy Course and some JS from youtube tutorials
+- 👀 My interest in programming started with my passion for videogames, and as of now I am a CS student in Romania that wants to learn more about this field.
 - 💞️ I’m looking to collaborate on a small/medium project with a tutor or someone that is on this journey, like me. It would be nice to have someone to relate and talk about this stuff.
 - 📫 Reach me by
   - Discord: XrayMan19#9488
